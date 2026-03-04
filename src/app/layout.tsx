@@ -7,7 +7,7 @@ import type { Metadata } from 'next';
 import ScrollToTop from '../components/reuseables/ScrollToTop';
 
 export const metadata: Metadata = {
-    title: 'Portfolio',
+    title: "Portfolio | Trevor Ramtahal",
     description: "Trevor Ramtahal's Portfolio Website",
 };
 

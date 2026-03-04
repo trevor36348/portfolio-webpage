@@ -39,7 +39,7 @@ export default function IntroSection() {
 
                 <div className="flex justify-center mt-4 md:mt-8">
                     <a
-                        href="/static/test.pdf"
+                        href="/static/trevor-ramtahal-resume.pdf"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="font-medium px-6 py-2 md:px-8 md:py-3 rounded-md bg-accentMain hover:bg-accentDark transition duration-300 ease-in-out"
