@@ -1,0 +1,24 @@
+[
+    {
+        "slug": "slug",
+        "image": "/image/location",
+        "title": "Title",
+        "introduction": "Intro Sentence",
+        "technologies": ["Tech 1", "Tech 2"],
+        "projectURL": "https://www.google.com/",
+        "siteURL": "https://www.google.com/",
+        "isCompleted": true,
+        "isFeatured": true,
+        "overview": "Overview Sentence",
+        "keyFeatures": [
+            {
+                "sectionTitle": "SectionTitle1:",
+                "sectionText": ["Sentence", "Sentence", "Sentence"]
+            },
+            {
+                "sectionTitle": "SectionTitle2:",
+                "sectionText": ["Sentence", "Sentence", "Sentence", "Sentence", "Sentence"]
+            }
+        ]
+    }
+]

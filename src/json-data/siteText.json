@@ -1,0 +1,20 @@
+{
+    "paragraphs": [
+        "Building modern and scalable solutions, focused on ",
+        { "bold": "Next.js" },
+        ", ",
+        { "bold": "TypeScript" },
+        ", ",
+        { "bold": "Node.js" },
+        " and ",
+        { "bold": "MongoDB" }
+    ],
+    "aboutParagraphs": [
+        "Hi, I'm Trevor Ramtahal, a full stack developer that has found my foundations from York University, Humber College, and a variety of personal projects / courses.",
+
+        "I am currently working as a Data Analyst at Telus Digital. My experience here as well as my academic background has given me solid understanding in data structures, databases and system design, which has strengthened my ability to build full-stack applications that are both data driven and intuitive to use.",
+
+        "Outside of programming, I enjoy many hobbies that allow me to problem solve and learn - from cooking, working out, playing card games and video games. I’m driven by curiosity and a constant desire to improve."
+    ],
+    "aboutStatus": true
+}

@@ -1,0 +1,13 @@
+[
+    {
+        "id": "exp-1",
+        "companyImage": "/image/location",
+        "role": "Role",
+        "company": "Company",
+        "location": "Location",
+        "startDate": "2000-00",
+        "endDate": "2000-01",
+        "responsibilities": ["Line", "Line", "Line"],
+        "technologies": ["Tech 1", "Tech 2"]
+    }
+]

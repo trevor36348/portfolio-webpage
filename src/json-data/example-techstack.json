@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Tech",
+        "category": "language",
+        "order": 1
+    },
+    {
+        "name": "Tech 2",
+        "category": "frontend",
+        "order": 1
+    },
+    {
+        "name": "Tech 3",
+        "category": "backend",
+        "order": 1
+    },
+    {
+        "name": "Tech 4",
+        "category": "backend",
+        "order": 2
+    }
+]
