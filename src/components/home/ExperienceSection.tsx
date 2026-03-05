@@ -1,4 +1,5 @@
 import { Experience } from '@/src/types/ExperienceType';
+import { MdOutlineWork } from "react-icons/md";
 
 type ExperienceProps = {
     experiences: Experience[];
@@ -16,11 +17,10 @@ export default function ExperienceSection({ experiences }: ExperienceProps) {
                     className="p-8 my-4 border rounded-lg mt-3 mb-4 bg-subSecA border-subSecB transition ease-in-out flex flex-col relative shadow-md hover:shadow-[0_0_10px_3px_rgba(209,0,38,0.4)] transition-shadow duration-300"
                 >
                     <div className="flex flex-row mb-3">
-                        <div className="mr-2">
-                            <img
-                                className="rounded-md h-16 w-16 object-contain"
-                                src={experienceData.companyImage}
-                            ></img>
+                        <div className="mr-2 my-auto">
+                            <div className="rounded-md h-16 w-16 border flex items-center justify-center border-accentMain border-3">
+                                <MdOutlineWork className='h-12 w-12 m-auto text-accentMain flex'/>
+                            </div>
                         </div>
                         <div className="flex flex-col justify-between">
                             <p className="text-xl sm:text-3xl font-medium">
